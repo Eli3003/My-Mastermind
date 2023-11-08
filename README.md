@@ -1,7 +1,6 @@
 # Welcome to My Mastermind
 Welcome To Mastermind
 ## Task
- problem problem problem problem problem problem problem problem
 
 ## Description
 Mastermind is a game composed of 8 pieces of different colors.
